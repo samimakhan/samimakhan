@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samima Khan</h1>
-<h3 align="center">A passionate frontend developer forging my learning path in Design and Web development, one skill at a time.</h3>
+<h3 align="center">A passionate frontend developer forging learning path in Design and Web development, one skill at a time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samimakhan&label=Profile%20views&color=0e75b6&style=flat" alt="samimakhan" /> </p>
 
