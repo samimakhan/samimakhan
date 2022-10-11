@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Samima Khan</h1>
-<h3 align="center">A passionate frontend developer forging learning path in Design and Web development, one skill at a time.</h3>
+<h3 align="center">A passionate designer forging my learning path in design and development, one skill at a time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samimakhan&label=Profile%20views&color=0e75b6&style=flat" alt="samimakhan" /> </p>
 
-- 🔭 I’m currently working on [Paperback-Book-App](https://www.behance.net/gallery/117891775/Paperback-Book-App-UI-Concept)
+- 🔭 I’ve worked on [Paperback-Book-App](https://www.behance.net/gallery/117891775/Paperback-Book-App-UI-Concept)
 
-- 🌱 I’m currently learning **React, React Native,Ux Research**
+- 🌱 I’m currently learning **React, React Native, UX Research**
 
 - 👯 I’m looking to collaborate on **UI/UX Projects**
 
-- 🤝 I’m looking for help with **my career path.**
-
 - 👨‍💻 All of my projects are available at [https://github.com/samimakhan](https://github.com/samimakhan)
 
-- 📝 I regularly write articles on [https://www.gradientco.net](https://www.gradientco.net)
+- 📝 I sometimes write articles on [https://medium.com/@samimakhan16](https://medium.com/@samimakhan16)
 
 - 📫 How to reach me **samimakhan16@gmail.com**
 
