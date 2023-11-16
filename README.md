@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Samima Khan</h1>
-<h3 align="center">A passionate designer forging my learning path in design and development, one skill at a time.</h3>
+<h3 align="center">A passionate designer forging my learning path, one skill at a time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samimakhan&label=Profile%20views&color=0e75b6&style=flat" alt="samimakhan" /> </p>
 
 - 🔭 I’ve worked on [Paperback-Book-App](https://www.behance.net/gallery/117891775/Paperback-Book-App-UI-Concept)
 
-- 🌱 I’m currently learning **React, React Native, UX Research**
+- 🌱 I sometimes code using **Python, React, React Native**
 
 - 👯 I’m looking to collaborate on **UI/UX Projects**
 
