@@ -5,7 +5,7 @@
 
 - 🔭 I’ve worked on [Paperback-Book-App](https://www.behance.net/gallery/117891775/Paperback-Book-App-UI-Concept)
 
-- 🌱 I sometimes code using **Python, React, React Native**
+- 🌱 I code using **Python, React, React Native**
 
 - 👯 I’m looking to collaborate on **UI/UX Projects**
 
