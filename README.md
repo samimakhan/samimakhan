@@ -1,29 +1,48 @@
-<h1 align="center">Hi 👋, I'm Samima Khan</h1>
-<h3 align="center">A passionate designer forging my learning path, one skill at a time.</h3>
+# Hi, I'm Samima Khan 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samimakhan&label=Profile%20views&color=0e75b6&style=flat" alt="samimakhan" /> </p>
+**Product / UX Designer based in Ottawa**, designing user-centred digital products across SaaS, fintech, e-commerce, and climate tech.
 
-- 🔭 I’ve worked on [Paperback-Book-App](https://www.behance.net/gallery/117891775/Paperback-Book-App-UI-Concept)
+I design products end to end, from research and information architecture through prototyping and developer handoff, and I care about decisions that are backed by both qualitative insight and behavioural data. I hold a Master of UX Design from the University of Ottawa (2025) and a B.S. in Computer Science, so I sit comfortably between design craft and technical implementation.
 
-- 🌱 I code using **Python, React, React Native**
+---
 
-- 👯 I’m looking to collaborate on **UI/UX Projects**
+### What I do
 
-- 👨‍💻 All of my projects are available at [https://github.com/samimakhan](https://github.com/samimakhan)
+- Lead user research and usability testing, then turn findings into prioritized design decisions
+- Design wireframes, high-fidelity UI, and interactive prototypes in Figma
+- Run growth and conversion experiments, pairing qualitative insight with product analytics
+- Build and maintain design systems and reusable component libraries
+- Communicate design decisions through storytelling and stakeholder presentations
 
-- 📝 I sometimes write articles on [https://medium.com/@samimakhan16](https://medium.com/@samimakhan16)
+---
 
-- 📫 How to reach me **samimakhan16@gmail.com**
+### Where I've worked
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/samima-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samima-khan" height="30" width="40" /></a>
-<a href="https://www.behance.net/samimakhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="samimakhan07df" height="30" width="40" /></a>
-</p>
+- **SurveyMonkey, Product Designer, Growth Design (2024)** doubled AI Survey Creator adoption from 5% to 11%, surfaced a $140K/year cost-saving acquisition opportunity through a dual-CTA signup redesign, and ran 6 signup experiments across 5+ cross-functional teams. Earned a 4-month extension based on performance.
+- **CreditBook, Product Designer (2022 to 2023)** redesigned 6 core financial reports based on feedback from 30+ MSMEs, lifting daily engagement by 16% across 20K+ businesses. Promoted after 6 months to lead the mobile app vertical.
+- **Dastgyr, UX Design Intern (2022)** designed a Buy Now Pay Later feature across 64 screens and ran a UI audit that uncovered 15+ design inconsistencies across the retailer app and seller dashboard.
+- **TEAL Climate, UX Designer (2023)** led brand discovery and a website redesign, delivering 4 landing pages and a reusable UI system for a carbon-accounting startup.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samimakhan&show_icons=true&locale=en&layout=compact" alt="samimakhan" /></p>
+### Skills and tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samimakhan&show_icons=true&locale=en" alt="samimakhan" /></p>
+**Core:** User Research (interviews, usability testing, survey research), Information Architecture, Interaction Design, Visual Design, Growth Design, A/B Testing, Data Visualization, Accessibility (WCAG 2.1), Design Systems, Prototyping
+
+**Tools:** Figma, ProtoPie, Framer, FigJam, Miro, Adobe Illustrator, UserTesting, Dovetail, Amplitude, Mixpanel
+
+**Technical:** HTML, CSS, JavaScript
+
+---
+
+### Beyond work
+
+Community Organizer with Google Developer Groups (Ottawa and Kolachi) and Global Ambassador for Google Women Techmakers, where I support and spotlight underrepresented voices in tech.
+
+---
+
+### Let's connect
+
+- Portfolio: [samimakhan.framer.website](https://samimakhan.framer.website)
+- LinkedIn: [linkedin.com/in/samima-khan](https://linkedin.com/in/samima-khan)
+- Email: samimakhan16@gmail.com
