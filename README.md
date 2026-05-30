@@ -1,6 +1,6 @@
 # Hi, I'm Samima Khan 👋
 
-**Product / UX Designer based in Ottawa**, designing user-centred digital products across SaaS, fintech, e-commerce, and climate tech.
+**Product / UX Designer based in Canada**, designing user-centred digital products across SaaS, fintech, e-commerce, and climate tech.
 
 I design products end to end, from research and information architecture through prototyping and developer handoff, and I care about decisions that are backed by both qualitative insight and behavioural data. I hold a Master of UX Design from the University of Ottawa (2025) and a B.S. in Computer Science, so I sit comfortably between design craft and technical implementation.
 
